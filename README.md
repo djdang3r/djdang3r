@@ -1,4 +1,4 @@
-# 👨‍💻 Wilfredo Perilla (a.k.a djdang3r)
+# 👨‍💻 Wilfredo Perilla (djdang3r)
 
 **Ingeniero de Software | Full Stack Developer | Fundador de Script Develop**
 
