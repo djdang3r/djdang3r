@@ -1,6 +1,12 @@
 # 👨‍💻 Wilfredo Perilla (djdang3r)
 
 **Ingeniero de Software | Full Stack Developer | Fundador de Script Develop**
+<p align="center">
+  <a href="https://www.youtube.com/@scriptdevelop"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/ing-wilfredo-perilla-carrillo/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 Hola, soy **Wilfredo Perilla**, un apasionado desarrollador de software con más de **15 años de experiencia** construyendo soluciones web completas. Aunque domino el stack completo, mi fortaleza está en el **desarrollo backend**, especialmente con **PHP y Laravel**.
 
