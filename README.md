@@ -73,13 +73,13 @@ Actualmente estoy creando **Script Develop**, una empresa enfocada en brindar so
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/djdang3r/whatsapp-api-manager"><img width="278" src="https://djdang3r-whatsapp-api-manager.vercel.app/api/pin/?username=djdang3r&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/djdang3r/whatsapp-business-livechat"><img width="278" src="https://djdang3r-whatsapp-business-livechat.vercel.app/api/pin/?username=djdang3r&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
   <a href="https://github.com/djdang3r?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djdang3r&repo=whatsapp-api-manager)](https://github.com/djdang3r/whatsapp-api-manager)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=djdang3r&icon=0&color=0)](https://visitcount.itsvg.in)
