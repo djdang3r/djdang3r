@@ -1,7 +1,7 @@
 # 👨‍💻 Wilfredo Perilla (djdang3r) <a href="https://www.youtube.com/@scriptdevelop"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> <a href="https://www.linkedin.com/in/ing-wilfredo-perilla-carrillo/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 <p align="center">
   <a href="https://www.youtube.com/@scriptdevelop">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/scriptdevelop/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/@scriptdevelop">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/djdang3r?tab=repositories&sort=stargazers">
