@@ -1,16 +1,4 @@
 # 👨‍💻 Wilfredo Perilla (djdang3r) <a href="https://www.youtube.com/@scriptdevelop"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> <a href="https://www.linkedin.com/in/ing-wilfredo-perilla-carrillo/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-<p align="center">
-  <a href="https://www.youtube.com/@scriptdevelop">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/@scriptdevelop">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/djdang3r?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/djdang3r?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/djdang3r/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
 
 <p align="center">
   <a href="https://www.youtube.com/@scriptdevelop">
